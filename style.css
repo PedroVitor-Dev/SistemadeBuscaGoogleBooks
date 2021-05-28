@@ -10,7 +10,7 @@ body{
     align-items: center;
     justify-items: center;
     flex-direction: column;
-    background-image:url(./img/book\ backgroud.jpg);
+    background-image:url(./book\ backgroud.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
